@@ -1,0 +1,11 @@
+.bg-primary {
+    background-color: blue;
+  }
+
+  .bg-about{
+      background-color: chartreuse;
+  }
+
+  section:nth-child(2n+1){
+      background-color: cyan;
+  }
